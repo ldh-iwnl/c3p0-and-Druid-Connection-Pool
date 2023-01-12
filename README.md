@@ -1,5 +1,5 @@
 # c3p0-and-Druid-Connection-Pool
-Testing c3p0 and Druid Connection Pool \n
+Testing c3p0 and Druid Connection Pool /n
 Configure c3p0 using c3p0-config.xml
 Configure Druid using druid.properties
 Use Encapsulate Method to make the code look cleaner.
